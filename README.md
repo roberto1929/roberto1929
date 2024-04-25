@@ -19,6 +19,7 @@ Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and le
 <a href="https://instagram.com/roberto.silvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberto.silz" height="30" width="40" /></a>
 </p>
 
+![snake gif](https://github.com/roberto1929/roberto1929/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" style="display: block"><br>
   <h2> Thanks for the visit! 💖 </h2>

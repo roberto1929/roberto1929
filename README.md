@@ -6,7 +6,7 @@
 
 ## Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 
 <h3 align="left">Find me around the web: </h3>

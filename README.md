@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C
   ## a little more about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
-## 🧰  my toolbox
+## Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
@@ -15,7 +15,6 @@
 <a href="https://instagram.com/roberto.silvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberto.silz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </p>
+
 <div align="center" style="display: block"><br>
   <h2> Thanks for the visit! 💖 </h2>

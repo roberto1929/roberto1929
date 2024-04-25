@@ -12,6 +12,10 @@ Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and le
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
+ # Features that i use:
+
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,git,cmake)](https://skillicons.dev)
+
 
 <h3 align="left">Find me around the web: </h3>
 <p align="left">

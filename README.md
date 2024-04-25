@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Telecommunications Engineering in IFSC Campus São José
 - 🌱 I’m currently learning C and C++
-  ## a little more about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
+  ## A little more about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
 ## Languages:
 

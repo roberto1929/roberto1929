@@ -19,3 +19,5 @@ Hey there! welcome to my github! i'm a brazilian student. I'm currently in the t
 
 <div align="center" style="display: block"><br>
   <h2> Thanks for the visit! 💖 </h2>
+
+⬇️ <em>Don't forget to check out my repositories</em>

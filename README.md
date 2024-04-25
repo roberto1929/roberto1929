@@ -15,7 +15,5 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto1929&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center" style="display: block"><br>
-  <h2> thanks for reading! 💖 </h2>
+  <h2> Obrigado pela visita! 💖 </h2>

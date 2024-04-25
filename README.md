@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning C
   ## a little more about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
+## 🧰  my toolbox
+
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+
 
 <h3 align="left">Find me around the web: </h3>
 <p align="left">

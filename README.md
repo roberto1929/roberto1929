@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C and C++
   ## A little more about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
- #Languages:
+ # Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 

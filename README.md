@@ -6,7 +6,7 @@
   ## a little more about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me around the web: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/roberto-da-silva-espindola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto da silva espindola" height="30" width="40" /></a>
 <a href="https://instagram.com/roberto.silvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberto.silz" height="30" width="40" /></a>

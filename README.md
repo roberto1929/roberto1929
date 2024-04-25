@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Roberto</h1>
+<h1 Olá eu sou o <a href="https://github.com/roberto1929">Roberto</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roberto1929&label=Profile%20views&color=0e75b6&style=flat" alt="roberto1929" /> </p>
+
+- 🔭 I’m currently studying in IFSC Campus São José
+- 🌱 I’m currently learning C
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

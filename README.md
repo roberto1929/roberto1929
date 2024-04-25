@@ -1,18 +1,15 @@
-### Olá eu sou o ![Roberto](https://github.com/roberto1929) 👋
+<h1 align="center">Hi 👋, I'm Roberto</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roberto1929&label=Profile%20views&color=0e75b6&style=flat" alt="roberto1929" /> </p>
 
-<!--
-**roberto1929/roberto1929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/roberto da silva espindola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto da silva espindola" height="30" width="40" /></a>
+<a href="https://instagram.com/roberto.silz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberto.silz" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Alt text]([https://github.com/roberto1929/roberto1929/assets/127215401/a636e8a6-e08c-4ce9-be32-94f53af0614f](https://camo.githubusercontent.com/863c121a81fbfdbf0369b75b5df6e25627b778d0c7061b98b6421edce6ae79be/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f357852573263554b66637951672f67697068792e676966))
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberto1929&show_icons=true&locale=en&layout=compact" alt="roberto1929" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roberto1929&show_icons=true&locale=en" alt="roberto1929" /></p>

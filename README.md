@@ -4,13 +4,13 @@
 Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and learn new tech.
 
 - 🔭 I’m currently studying Telecommunications Engineering in IFSC Campus São José
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning C, C++ and Julia
 
 ![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto1929&show_icons=true&theme=tokyonight)
 
  # Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,julia)](https://skillicons.dev)
 
  # Tools that I use in my routine:
 

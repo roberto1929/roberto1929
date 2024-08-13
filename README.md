@@ -27,5 +27,3 @@ Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and le
 <div align="center" style="display: block"><br>
   <h2> Thanks for the visit! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
 
-⬇️ <em>Don't forget to check out my repositories</em>
-

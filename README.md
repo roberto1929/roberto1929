@@ -28,4 +28,4 @@ Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and le
 
 ⬇️ <em>Don't forget to check out my repositories</em>
 
-![snake animation](https://github.com/roberto1929/roberto1929/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/roberto1929/roberto1929/output/github-contribution-grid-snake-dark.svg)

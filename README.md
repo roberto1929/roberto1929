@@ -27,3 +27,5 @@ Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and le
   <h2> Thanks for the visit! 💖 </h2>
 
 ⬇️ <em>Don't forget to check out my repositories</em>
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)

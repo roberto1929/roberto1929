@@ -7,6 +7,7 @@ Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and le
 - 🌱 I’m currently learning C, C++ and Julia
 
 ![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto1929&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto1929&langs_count=8)
 
  # Languages:
 
@@ -24,8 +25,7 @@ Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and le
 </p>
 
 <div align="center" style="display: block"><br>
-  <h2> Thanks for the visit! 💖 </h2>
+  <h2> Thanks for the visit! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
 
 ⬇️ <em>Don't forget to check out my repositories</em>
 
-![Snake animation](https://raw.githubusercontent.com/roberto1929/roberto1929/output/github-contribution-grid-snake-dark.svg)

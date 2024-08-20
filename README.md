@@ -7,7 +7,6 @@ Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and le
 - 🌱 I’m currently learning C, C++ and Julia
 
 ![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto1929&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto1929&langs_count=8)
 
  # Languages:
 

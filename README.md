@@ -1,16 +1,16 @@
 <h1>Olá eu sou o Roberto. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  </h1>
 
-# A little more about me...<img height="120px" width="120px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
-Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and learn new tech.
+# Um pouco sobre mim<img height="120px" width="120px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
+Hey there! Bem vindo ao meu Github! Sou um estudante brasileiro. Gosto de programar e aprender novas tecnologias.
 
-- 🔭 I’m currently studying Telecommunications Engineering in IFSC Campus São José
-- 🌱 I’m currently learning C, C++ and Julia
+- 🔭 Atualmente sou estudante de Engenharia de Telecomunicações no IFSC Campus São José
+- 🌱 Estou aprendendo C, C++ e Julia
 
- # Languages:
+ # Linguagens:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,julia)](https://skillicons.dev)
 
- # Tools that I use in my routine:
+ # Ferramentas que uso no dia a dia:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,git,cmake)](https://skillicons.dev)
 
@@ -22,5 +22,5 @@ Hey there! Welcome to my github! I'm a brazilian student. I enjoy to code and le
 </p>
 
 <div align="center" style="display: block"><br>
-  <h2> Thanks for the visit! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
+  <h2> Obrigado pela visita! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
 

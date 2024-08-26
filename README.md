@@ -6,6 +6,8 @@ Hey there! Bem vindo ao meu Github! Sou um estudante brasileiro. Gosto de progra
 - 🔭 Atualmente sou estudante de Engenharia de Telecomunicações no IFSC Campus São José
 - 🌱 Estou aprendendo C, C++ e Julia
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?roberto1929=anuraghazra&layout=compact)
+
  # Linguagens:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,julia)](https://skillicons.dev)

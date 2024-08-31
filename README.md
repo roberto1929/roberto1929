@@ -1,7 +1,7 @@
 <h1>Olá eu sou o Roberto. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  </h1>
 
 # Um pouco sobre mim<img height="120px" width="120px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
-Hey there! Bem vindo ao meu Github! Sou um estudante brasileiro. Gosto de programar e aprender novas tecnologias.
+Bem vindo ao meu Github! Gosto de programar e aprender novas tecnologias.
 
 - 🔭 Atualmente sou estudante de Engenharia de Telecomunicações no IFSC Campus São José
 - 🌱 Estou aprendendo C, C++ e Julia

@@ -4,11 +4,12 @@
 Bem vindo ao meu Github! Gosto de programar e aprender novas tecnologias.
 
 - 🔭 Atualmente sou estudante de Engenharia de Telecomunicações no IFSC Campus São José
-- 🌱 Estou aprendendo C, C++ e Julia
+- 🌱 Estou aprendendo C, C++, Julia, Matlab e Python
 
  # Linguagens:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,julia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,julia,matlab,python)](https://skillicons.dev)
+
 
  # Ferramentas que uso no dia a dia:
 

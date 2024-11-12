@@ -11,6 +11,7 @@ Bem vindo ao meu Github! Gosto de programar e aprender novas tecnologias.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,julia,matlab,python)](https://skillicons.dev)
 <img width="50" src="https://github.com/user-attachments/assets/b23c1318-61c7-4d9d-b3d1-0ff3f8c9cd39" alt="VHDL" title="VHDL"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto1929&layout=compact)
 
  # Ferramentas que uso no dia a dia:
 

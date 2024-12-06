@@ -18,6 +18,8 @@ Bem vindo ao meu Github! Gosto de programar e aprender novas tecnologias.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,git,cmake)](https://skillicons.dev)
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+<img width="50" src="https://sli.dev/logo-title.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+
 
 
 <h3 align="left">Me encontre pela web: </h3>

@@ -3,8 +3,8 @@
 # Um pouco sobre mim<img height="120px" width="120px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 Bem vindo ao meu Github! Gosto de programar e aprender novas tecnologias.
 
-- 🔭 Atualmente sou estudante de Engenharia de Telecomunicações no IFSC Campus São José
-- 🌱 Estou aprendendo C, C++, Julia, Matlab, Python, VHDL e Assembly
+- 🔭 Atualmente sou estudante de Engenharia de Telecomunicações no IFSC Campus São José.
+- 🌱 Estou aprendendo C, C++, Julia, Matlab, Python, VHDL, Assembly e Java.
 
  # Linguagens:
 

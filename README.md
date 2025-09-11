@@ -12,7 +12,7 @@ Bem vindo ao meu Github! Gosto de programar e aprender novas tecnologias.
 <img width="50" src="https://github.com/user-attachments/assets/b23c1318-61c7-4d9d-b3d1-0ff3f8c9cd39" alt="VHDL" title="VHDL"/>
 <img width="50" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="ASSEMBLY" title="ASSEMBLY"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto1929&layout=compact)
+
 
  # Ferramentas que uso no dia a dia:
 

@@ -23,7 +23,7 @@ Bem vindo ao meu Github! Gosto de programar e aprender novas tecnologias.
 
 <h3 align="left">Me encontre pela web: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/roberto-da-silva-espindola-63557b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto da silva espindola" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/roberto-da-silva-espindola-63557b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto da silva espindola" height="30" width="40" /></a>
 <a href="https://instagram.com/roberto.silvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberto.silz" height="30" width="40" /></a>
 </p>
 

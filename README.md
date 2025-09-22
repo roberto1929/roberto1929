@@ -4,7 +4,6 @@
 Bem vindo ao meu Github! Gosto de programar e aprender novas tecnologias.
 
 - 🔭 Atualmente sou estudante de Engenharia de Telecomunicações no IFSC Campus São José.
-- 🌱 Estou aprendendo C, C++, Julia, Matlab, Python, VHDL, Assembly e Java.
 
  # Linguagens:
 
